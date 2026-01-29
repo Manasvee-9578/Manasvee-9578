@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Manasvee 👋
 
-<!--
-**Manasvee-9578/Manasvee-9578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+🐍 Python | Data Science | AI/ML  
+📍 Gujarat, India  
 
-Here are some ideas to get you started:
+I enjoy building clean Python programs, working with data,  
+and learning how real-world machine learning systems are designed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pinned Work
+- **Python_Core** – Chapter-wise Python fundamentals with clean code
+- **Customer Segmentation** – Clustering-based data analysis using Python
+- **House Price Prediction** – Regression model with performance evaluation
+
+### Currently
+- Strengthening Python fundamentals
+- Practicing data analysis & ML concepts
+- Preparing for internships and placements
+
