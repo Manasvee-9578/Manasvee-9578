@@ -9,8 +9,7 @@ and learning how real-world machine learning systems are designed.
 
 ### Pinned Work
 - **Python_Core** – Chapter-wise Python fundamentals with clean code
-- **Customer Segmentation** – Clustering-based data analysis using Python
-- **House Price Prediction** – Regression model with performance evaluation
+
 
 ### Currently
 - Strengthening Python fundamentals
